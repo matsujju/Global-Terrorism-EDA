@@ -12,10 +12,10 @@
   * Variables: >100 variables on location, tactics, perpetrators, targets, and outcomes but used around <ins>30 parameters as most of them has more than *80% missing values*</ins>.
   * Sources: Unclassified media articles (<ins>Note: Please interpret changes over time with caution. Global patterns are driven by diverse trends in particular regions, and data collection is influenced by fluctuations in access to media coverage over both time and place.</ins>)
   
-## Tools used -
+## Python libraries used -
   - [Pandas](https://pandas.pydata.org/) : Used for exploring and manipulating dataset
   - [Numpy](https://numpy.org/doc/stable/reference/index.html) : Working with arrays
   - [Seaborn](https://seaborn.pydata.org/) and [Matplotlib](https://matplotlib.org/) : Visualization library for plotting graphs (2-D static plots)
   - [Plotly](https://plotly.com/python/) : Interactive visualization library for Graphs 
  
-## 
+
