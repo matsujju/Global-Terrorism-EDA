@@ -41,7 +41,7 @@
   - Weapons used in different regions:
     ![Image](https://github.com/matsujju/Global-Terrorism-EDA/blob/master/images/Weapons%20used%20in%20Regions.png)
     
-  - Word Cloud for Motivation behind these Attacks:
+  - Motivation behind these Attacks:
     ![Image](https://github.com/matsujju/Global-Terrorism-EDA/blob/master/images/terror_word_cloud.png)
 
 ## Libraries used -
