@@ -3,7 +3,7 @@
 
 ## Overview -
   - This Project is exploratory data analysis of [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd) (GTD) and more about the [data](https://www.start.umd.edu/gtd/), it's collection methodology, definitions, and coding schema can be found [here](https://start.umd.edu/gtd/downloads/Codebook.pdf).
-  - Here I tried to find out Is the definiton of Terrorism is relevant to this data? I tried to gain understanding of how terrorism spread across globe, it's relevant details, though knowing philosophical thought behind these incident would not be possible without domain expertise.
+  - Here I tried to find out How relevant is the definiton of Terrorism to this data? I tried to gain understanding of how terrorism spread across globe, it's relevant details, though knowing philosophical thought behind these incident would not be possible without domain expertise.
   - This project has also been converted to [Dashboard](https://terrorismglobal.herokuapp.com/) for users to interact and compare the results and it's repository can be found [here](https://github.com/matsujju/Global-Terrorism-Dashboard) for more details.
   
 ## Data Set Information -
